@@ -28,8 +28,8 @@ Correlation coefficients are indicators of the strength of the linear relationsh
 # Program
 
 ```python
-# Developed by:ARUN KUMAR R
-# Reg no:212220233001
+# Developed by:SARVESHKARAN VK
+# Reg no:212221230089
 import math
 import numpy as np
 p = [[0,0.01,0.03,0.05,0.07,0.09],
